@@ -1,0 +1,4 @@
+flow_model/*
+*.zip
+*.csv
+.vscode/*
