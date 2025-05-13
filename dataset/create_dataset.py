@@ -1,6 +1,9 @@
 from datetime import date
 import os
 from river_data_collector.river_downloader import imgw
+# install the package using:
+# pip install -e git+https://github.com/FlowPredictorApp/RiverDataCollector.git#egg=river_data_collector
+
 import json
 
 output_folder = "data/"
